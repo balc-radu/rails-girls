@@ -14,8 +14,8 @@
  *= require_self
 
 */
-body { padding-top: 100px; }
-footer { margin-top: 100px; }
+body { padding-top: 30px; }
+footer { margin-top: 1px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #2E9AFE; }
 td img { height: 150px;width:270px}
